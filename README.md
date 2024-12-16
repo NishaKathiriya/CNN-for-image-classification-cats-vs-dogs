@@ -38,7 +38,7 @@ This project uses a Convolutional Neural Network (CNN) to classify images of dog
 - Test Accuracy: ~85%
 
 #### **Medium Link**
-Read more about the project and its purpose on my [Medium article](#) (replace `#` with your Medium link).
+Read more about the project and its purpose on my [Medium article](https://medium.com/@nishakathiriya01/dog-vs-cat-image-classification-using-cnn-a-step-by-step-project-5f3eb320393d)
 
 
 
